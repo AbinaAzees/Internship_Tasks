@@ -1,2 +1,2 @@
-# ML_Tasks
+# ML_Projects
 
